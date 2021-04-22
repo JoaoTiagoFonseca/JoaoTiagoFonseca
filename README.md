@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoaoTiagoFonseca
+- 👀 I’m interested in working as a Full-Stack developer.
+- 🌱 I’m currently learning Java, C#, PHP, Python, JavaScript, HTML, CSS, MySQL, ...
+- 💞️ I’m looking to collaborate and become more participatory in the community.
+- 📫 How to reach me: joaotiago.office@gmail.com
